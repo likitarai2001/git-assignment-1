@@ -28,9 +28,10 @@
 ![Screenshot from 2023-02-16 11-37-26](https://user-images.githubusercontent.com/125335643/219548722-ce94e50e-be27-41de-b965-62074405fd59.png)
 ![Screenshot from 2023-02-16 11-39-45](https://user-images.githubusercontent.com/125335643/219287858-f99f4748-9e47-4a24-abbd-de46398bb0fc.png)
 ![Screenshot from 2023-02-16 11-39-54](https://user-images.githubusercontent.com/125335643/219287865-d28d3235-203b-4a00-a1b4-33891bd17434.png)
-
 - Merge pull request and print statement will be added to branch `master`
-
+![merge](images/Screenshot%20from%202023-02-16%2011-41-51.png)
+![merge](images/Screenshot%20from%202023-02-16%2011-42-09.png)
+![merge](images/Screenshot%20from%202023-02-16%2011-42-27.png)
 
 
 
